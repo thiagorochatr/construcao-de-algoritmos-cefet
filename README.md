@@ -11,6 +11,6 @@ Teste 2: 10/10
 
 Teste 3: 10/10
 
-Teste 4: 
+Teste 4: 10/10
 
 CEFET-RJ, Sistemas de Informação
