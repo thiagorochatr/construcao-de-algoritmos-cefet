@@ -1,4 +1,7 @@
 # construcao-de-algoritmos-cefet
+
+Repository for the Algorithm Construction discipline (Construção de Algoritmos), from the Undergraduate Course in Information Systems, at the Federal Center of Technological Education/Rio de Janeiro (Cefet/RJ).
+
 Construção de Algoritmos
 
 Projetos desenvolvidos em LIPPE
